@@ -1,0 +1,14 @@
+{
+  "name": "com.hello.anshu",
+  "version": "1.0.0",
+  "description": "THIS IS ANSHU BABU RAJPUT..!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ANSHU BABU",
+  "license": "ISC",
+  "dependencies": {
+    "appwrite": "^13.0.0"
+  }
+}
